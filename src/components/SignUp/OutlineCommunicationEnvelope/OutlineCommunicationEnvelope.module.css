@@ -1,0 +1,20 @@
+.root {
+  position: absolute;
+  left: 21.0884%;
+  right: 73.4694%;
+  top: 46.6192%;
+  bottom: 50.5338%;
+  align-items: flex-start;
+}
+.icon {
+  position: absolute;
+  left: 0;
+  right: 12.5%;
+  top: 0;
+  bottom: 16.6667%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
