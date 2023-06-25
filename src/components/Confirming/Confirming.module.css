@@ -1,0 +1,213 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fbe411;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.battery {
+  position: absolute;
+  left: 403px;
+  top: 14px;
+  width: 29.7126px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 366px;
+  top: 14px;
+  width: 20.7627px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle {
+  position: absolute;
+  left: 34.4671%;
+  right: 35.1474%;
+  top: 95.6109%;
+  bottom: 3.796%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.modalPanel {
+  position: absolute;
+  left: 54.195%;
+  right: 14.059%;
+  top: 12.2183%;
+  bottom: 83.3926%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.modalPanel2 {
+  position: absolute;
+  left: 4.3084%;
+  right: 38.322%;
+  top: 12.2183%;
+  bottom: 83.3926%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.modalPanel3 {
+  position: absolute;
+  left: 88.6621%;
+  right: 3.1746%;
+  top: 12.2183%;
+  bottom: 83.3926%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.a {
+  color: #000;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 91.3832%;
+  right: 5.6689%;
+  top: 13.1673%;
+  bottom: 84.3416%;
+  height: min-content;
+  flex-direction: column;
+}
+.image2 {
+  position: absolute;
+  left: 34.4671%;
+  right: 36.0544%;
+  top: 91.3405%;
+  bottom: 5.5753%;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._60 {
+  color: #000;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1.8%;
+  right: 87.9%;
+  top: 1.2%;
+  bottom: 96.75%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle1 {
+  position: absolute;
+  left: 14.1%;
+  right: 12.25%;
+  top: 55.995%;
+  bottom: 18.03%;
+  border-radius: 31px;
+  background-color: #342b71;
+}
+.confirmYourDriver {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.1%;
+  right: 19.1%;
+  top: 57.7%;
+  bottom: 38.3%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.safeAndCheapRide {
+  color: #c8c7cc;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32%;
+  right: 31.8%;
+  top: 62.9%;
+  bottom: 34.9%;
+  height: min-content;
+  flex-direction: column;
+}
+.fastAndReliable {
+  color: #c8c7cc;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32.9%;
+  right: 30.8%;
+  top: 66.8%;
+  bottom: 31%;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle23 {
+  position: absolute;
+  left: 30.8%;
+  right: 34.7%;
+  top: 72.4%;
+  bottom: 22.4%;
+  border-radius: 7px;
+  background-color: #fff;
+}
+.cONFIRM {
+  color: #000;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39%;
+  right: 42.9%;
+  top: 73.7%;
+  bottom: 23.84%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse1 {
+  position: absolute;
+  left: 23.6%;
+  right: 19.05%;
+  top: 20.8%;
+  bottom: 50%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
