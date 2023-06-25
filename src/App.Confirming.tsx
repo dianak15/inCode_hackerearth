@@ -1,7 +1,7 @@
 import { memo } from 'react';
 import type { FC } from 'react';
 
-import classes from './App.module.css';
+import classes from './App.Confirming.module.css';
 import resets from './components/_resets.module.css';
 import { Confirming } from './components/Confirming/Confirming';
 
