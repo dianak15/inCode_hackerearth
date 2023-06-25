@@ -1,0 +1,225 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fbe411;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.battery {
+  position: absolute;
+  left: 403px;
+  top: 14px;
+  width: 29.7126px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 366px;
+  top: 14px;
+  width: 20.7627px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle {
+  position: absolute;
+  left: 34.4671%;
+  right: 35.1474%;
+  top: 95.6109%;
+  bottom: 3.796%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.modalPanel {
+  position: absolute;
+  left: 54.195%;
+  right: 14.059%;
+  top: 12.2183%;
+  bottom: 83.3926%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.modalPanel2 {
+  position: absolute;
+  left: 4.3084%;
+  right: 38.322%;
+  top: 12.2183%;
+  bottom: 83.3926%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.modalPanel3 {
+  position: absolute;
+  left: 88.6621%;
+  right: 3.1746%;
+  top: 12.2183%;
+  bottom: 83.3926%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.a {
+  color: #000;
+  font-size: 17px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 91.3832%;
+  right: 5.6689%;
+  top: 13.1673%;
+  bottom: 84.3416%;
+  height: min-content;
+  flex-direction: column;
+}
+.image2 {
+  position: absolute;
+  left: 34.4671%;
+  right: 36.0544%;
+  top: 91.3405%;
+  bottom: 5.5753%;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._60 {
+  color: #000;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1.8141%;
+  right: 87.9819%;
+  top: 1.1862%;
+  bottom: 96.6785%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle1 {
+  position: absolute;
+  left: 14.059%;
+  right: 12.2449%;
+  top: 55.9905%;
+  bottom: 18.0308%;
+  border-radius: 31px;
+  background-color: #342b71;
+}
+.requestYourRide {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.0884%;
+  right: 23.356%;
+  top: 57.6512%;
+  bottom: 38.3155%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.safeAndCheapRide {
+  color: #c8c7cc;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 31.9728%;
+  right: 31.746%;
+  top: 62.8707%;
+  bottom: 34.8754%;
+  height: min-content;
+  flex-direction: column;
+}
+.fastAndReliable {
+  color: #c8c7cc;
+  font-size: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 32.8798%;
+  right: 30.839%;
+  top: 66.7853%;
+  bottom: 30.9609%;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle23 {
+  position: absolute;
+  left: 30.839%;
+  right: 34.6939%;
+  top: 72.3606%;
+  bottom: 22.4199%;
+  border-radius: 7px;
+  background-color: #fff;
+}
+.rEQUEST {
+  color: #000;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 39.0023%;
+  right: 42.8571%;
+  top: 73.6655%;
+  bottom: 23.8434%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse1 {
+  position: absolute;
+  left: 27.2109%;
+  right: 26.9841%;
+  top: 25.9786%;
+  bottom: 50.0593%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.minivanCar {
+  position: absolute;
+  left: 182px;
+  top: 269.4035px;
+  width: 73px;
+  height: 50.5965px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
