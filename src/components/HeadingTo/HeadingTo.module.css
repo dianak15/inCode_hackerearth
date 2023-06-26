@@ -1,0 +1,539 @@
+.voiceFab.voiceFab {
+  left: 78.458%;
+  right: 10.2041%;
+  top: 69.7509%;
+  bottom: 24.3179%;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fbe411;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.maps {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 5.3381%;
+  bottom: 0;
+  background-image: linear-gradient(180deg, #ffff 0%, #fff0 100%), /* webpackIgnore: true */ url('assets/maps.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto, cover;
+}
+.battery {
+  position: absolute;
+  left: 403px;
+  top: 14px;
+  width: 29.7126px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 366px;
+  top: 14px;
+  width: 20.7627px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.tOWHERE {
+  color: #c8c7cc;
+  font-size: 13px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 14.5125%;
+  right: 70.068%;
+  top: 76.1566%;
+  bottom: 21.9454%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.fROMWHERE {
+  color: #c8c7cc;
+  font-size: 13px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.2857%;
+  right: 65.9864%;
+  top: 67.3784%;
+  bottom: 30.8422%;
+  flex-direction: column;
+}
+.ic_Location {
+  position: absolute;
+  left: 352px;
+  top: 412px;
+  width: 44px;
+  height: 44px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.ic_current {
+  position: absolute;
+  left: 160px;
+  top: 178px;
+  width: 155px;
+  height: 158px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle14 {
+  position: absolute;
+  left: 47.3923%;
+  right: 24.0363%;
+  top: 17.4377%;
+  bottom: 75.9193%;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.service {
+  color: #000;
+  font-size: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.3288%;
+  right: 32.4263%;
+  top: 19.0985%;
+  bottom: 78.2918%;
+  flex-direction: column;
+}
+._4Min {
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 55.7823%;
+  right: 27.4376%;
+  top: 20.8778%;
+  bottom: 77.3428%;
+  flex-direction: column;
+}
+.rectangle390 {
+  position: absolute;
+  left: 58.5034%;
+  right: 39.9093%;
+  top: 23.962%;
+  bottom: 71.1744%;
+  background-color: #d9d9d9;
+}
+.avatar {
+  position: absolute;
+  left: 42.6304%;
+  right: 46.0317%;
+  top: 21.1151%;
+  bottom: 72.9537%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.modalPanel {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 67.3784%;
+  bottom: 2.847%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 10px #0000001a);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle142 {
+  position: absolute;
+  left: 5.8957%;
+  right: 5.8957%;
+  top: 69.2764%;
+  bottom: 23.6062%;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.whereAreYouHeadingTo {
+  color: #000;
+  font-size: 17px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.2971%;
+  right: 41.7234%;
+  top: 71.4116%;
+  bottom: 26.0973%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle391 {
+  position: absolute;
+  left: 64.8526%;
+  right: 34.0136%;
+  top: 70.4626%;
+  bottom: 25.1483%;
+  background-color: #000;
+}
+.arrow1 {
+  position: absolute;
+  left: 65.9864%;
+  right: 27.2109%;
+  top: 72.7165%;
+  bottom: 27.2835%;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.vanBlackTransportSideViewPoint {
+  position: absolute;
+  left: 26px;
+  top: 636.6823px;
+  width: 84.4325px;
+  height: 25.3177px;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.convertible {
+  position: absolute;
+  left: 139px;
+  top: 629.7464px;
+  width: 57px;
+  height: 28.2536px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.carBlackSideSilhouette {
+  position: absolute;
+  left: 231px;
+  top: 631.9124px;
+  width: 61.1409px;
+  height: 26.0876px;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.carBlackSideSilhouette2 {
+  position: absolute;
+  left: 330px;
+  top: 628px;
+  width: 55.1409px;
+  height: 29px;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle2 {
+  position: absolute;
+  left: 1.5873%;
+  right: 70.7483%;
+  top: 87.4259%;
+  bottom: 9.0154%;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.whiteChurch {
+  color: #242e42;
+  font-size: 13px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.0816%;
+  right: 73.0159%;
+  top: 88.1376%;
+  bottom: 9.8458%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle22 {
+  position: absolute;
+  left: 34.4671%;
+  right: 37.8685%;
+  top: 87.4259%;
+  bottom: 9.0154%;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.cinemaPark {
+  color: #242e42;
+  font-size: 13px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.9615%;
+  right: 40.1361%;
+  top: 88.1376%;
+  bottom: 9.8458%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.rectangle23 {
+  position: absolute;
+  left: 69.8413%;
+  right: 2.4943%;
+  top: 87.4259%;
+  bottom: 9.0154%;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.northStreet {
+  color: #242e42;
+  font-size: 13px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 72.3356%;
+  right: 4.7619%;
+  top: 88.1376%;
+  bottom: 9.8458%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.avatar2 {
+  position: absolute;
+  left: 30.6122%;
+  right: 58.0499%;
+  top: 42.7046%;
+  bottom: 51.3642%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar3 {
+  position: absolute;
+  left: 8.6168%;
+  right: 80.0454%;
+  top: 43.4164%;
+  bottom: 50.6524%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar4 {
+  position: absolute;
+  left: 21.0884%;
+  right: 67.5737%;
+  top: 21.9454%;
+  bottom: 72.1234%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar5 {
+  position: absolute;
+  left: 54.195%;
+  right: 34.4671%;
+  top: 42.586%;
+  bottom: 51.4828%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar6 {
+  position: absolute;
+  left: 74.1497%;
+  right: 14.5125%;
+  top: 9.2527%;
+  bottom: 84.8161%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar7 {
+  position: absolute;
+  left: 41.0431%;
+  right: 47.619%;
+  top: 9.8458%;
+  bottom: 84.223%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar8 {
+  position: absolute;
+  left: 15.1927%;
+  right: 73.4694%;
+  top: 10.083%;
+  bottom: 83.9858%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.avatar9 {
+  position: absolute;
+  left: 77.551%;
+  right: 11.1111%;
+  top: 37.4852%;
+  bottom: 56.5836%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
+.minivanCar {
+  position: absolute;
+  left: 79px;
+  top: 680.4035px;
+  width: 71px;
+  height: 22.5965px;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.singleMotorbike {
+  position: absolute;
+  left: 188px;
+  top: 695px;
+  width: 53.998px;
+  height: 35.428px;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.carBlackSideSilhouette3 {
+  position: absolute;
+  left: 291px;
+  top: 679.9573px;
+  width: 53.1409px;
+  height: 23.0427px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle393 {
+  position: absolute;
+  left: 15.4195%;
+  right: 82.9932%;
+  top: 35.2313%;
+  bottom: 59.9051%;
+  background-color: #d9d9d9;
+}
+.rectangle394 {
+  position: absolute;
+  left: 1.5873%;
+  right: 69.8413%;
+  top: 29.5374%;
+  bottom: 63.8197%;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.taxiThatAroundYou {
+  color: #000;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 7.483%;
+  right: 73.0159%;
+  top: 30.2491%;
+  bottom: 65.7177%;
+  flex-direction: column;
+}
+.avatar10 {
+  position: absolute;
+  left: 24.4898%;
+  right: 64.1723%;
+  top: 31.3167%;
+  bottom: 62.7521%;
+  outline: solid 2px #fff;
+  outline-offset: -1px;
+  border-radius: 30px;
+  background-image: url('assets/avatar.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 5px 10px 0px #0000001a;
+}
