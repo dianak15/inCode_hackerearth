@@ -1,0 +1,17 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 73.3333%;
+  top: 0;
+  bottom: 65.6357%;
+  align-items: flex-start;
+}
+.background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #ccced3c2;
+  backdrop-filter: blur(26.576059341430664px);
+}
