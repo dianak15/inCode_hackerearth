@@ -1,1 +1,37 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 91.4667%;
+  top: 0;
+  bottom: 85.567%;
+  align-items: flex-start;
+  background-color: #8e8e93;
+}
+.rectangle {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 4.6px;
+  background-color: #fcfcfe;
+  box-shadow: 0px 1px 0px 0px #898a8d;
+}
+.Label {
+  color: #000;
+  font-size: 16px;
+  line-height: 21px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.32px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 28.3333%;
+  bottom: 21.6667%;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
 
