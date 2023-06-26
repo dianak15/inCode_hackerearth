@@ -1,0 +1,378 @@
+.outlineCommunicationPhone.outlineCommunicationPhone {
+  left: 20.1814%;
+  right: 74.3764%;
+  top: 29.8932%;
+  bottom: 67.2598%;
+}
+.iPhoneXKeyboardsLightNumeric.iPhoneXKeyboardsLightNumeric {
+  left: 10.8844%;
+  right: 7.483%;
+  top: 48.8731%;
+  bottom: 21.9454%;
+}
+.rectangle24.rectangle24.rectangle24 {
+  left: 50%;
+  bottom: 8.7423px;
+}
+.dictation.dictation {
+  left: 316.8px;
+  top: 203.7342px;
+  width: 14.4px;
+  height: 21.1318px;
+}
+.dictation {
+  left: 316.8px;
+  top: 203.7342px;
+  width: 14.4px;
+  height: 21.1318px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.dictation2.dictation2 {
+  left: 316.8px;
+  top: 203.7342px;
+  width: 14.4px;
+  height: 21.1318px;
+}
+.dictation2 {
+  left: 316.8px;
+  top: 203.7342px;
+  width: 14.4px;
+  height: 21.1318px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.delete.delete {
+  left: 289.807px;
+  top: 152.1649px;
+  width: 21.713px;
+  height: 15.2165px;
+}
+.delete {
+  left: 289.807px;
+  top: 152.1649px;
+  width: 21.713px;
+  height: 15.2165px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fbe411;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.modalPanel {
+  position: absolute;
+  left: 10.8844%;
+  right: 7.483%;
+  top: 8.5409%;
+  bottom: 12.8114%;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0px -5px 20px 0px #0000001a;
+}
+.modalPanel2 {
+  position: absolute;
+  left: 18.3673%;
+  right: 12.2449%;
+  top: 10.4389%;
+  bottom: 34.0451%;
+  border-radius: 8px;
+  background-color: #fbe411;
+  box-shadow: 0px -5px 20px 0px #0000001a;
+}
+.rectangle {
+  position: absolute;
+  left: 22.9025%;
+  right: 28.3447%;
+  top: 20.8778%;
+  bottom: 78.5291%;
+  border-radius: 2.5px;
+  background-color: #d8d8d8;
+}
+.phoneVerification {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+  position: absolute;
+  left: 22.9025%;
+  right: 28.3447%;
+  top: 16.3701%;
+  bottom: 80.1898%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.enterThe4DigitCodeSentThroughS {
+  color: #8e8e93;
+  font-size: 15px;
+  font-weight: 300;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+  position: absolute;
+  left: 19.0476%;
+  right: 13.1519%;
+  top: 26.3345%;
+  bottom: 69.7509%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.iWouldLikeToUseMyEmailToLogInC {
+  position: absolute;
+  left: 17.4603%;
+  right: 16.0998%;
+  top: 82.5623%;
+  bottom: 12.8114%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #000;
+  font-size: 12px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+}
+.label2 {
+  color: #000;
+  font-size: 12px;
+  font-weight: 800;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+}
+.line1 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 8.6168%;
+  right: 66.4399%;
+  top: 89.3238%;
+  bottom: 10.5575%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #c8c7cc;
+  margin-bottom: -1px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.line2 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 63.9456%;
+  right: 11.1101%;
+  top: 89.4425%;
+  bottom: 10.4389%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #c8c7cc;
+  margin-bottom: -1px;
+  transform: matrix(1, -0.0091, 0.0091, 1, 0, 0);
+}
+.oR {
+  color: #c8c7cc;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+  position: absolute;
+  left: 47.3923%;
+  right: 47.1655%;
+  top: 88.1376%;
+  bottom: 9.6085%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle6 {
+  position: absolute;
+  left: 9.2971%;
+  right: 10.4308%;
+  top: 92.8826%;
+  bottom: 1.898%;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.loginWithGoogle {
+  color: #000000b0;
+  font-size: 17px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 36.0544%;
+  right: 30.6122%;
+  top: 94.1874%;
+  bottom: 3.3215%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.leftAccessory {
+  position: absolute;
+  left: 87px;
+  top: 96px;
+  width: 12px;
+  height: 20.5px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle10 {
+  position: absolute;
+  left: 19.7279%;
+  right: 66.6667%;
+  top: 39.5018%;
+  bottom: 59.9051%;
+  border-radius: 2.5px;
+  background-color: #d8d8d8;
+}
+.rectangle11 {
+  position: absolute;
+  left: 35.1474%;
+  right: 51.2472%;
+  top: 39.5018%;
+  bottom: 59.9051%;
+  border-radius: 2.5px;
+  background-color: #d8d8d8;
+}
+.rectangle12 {
+  position: absolute;
+  left: 51.4739%;
+  right: 34.9206%;
+  top: 39.3832%;
+  bottom: 60.0237%;
+  border-radius: 2.5px;
+  background-color: #d8d8d8;
+}
+.rectangle13 {
+  position: absolute;
+  left: 71.8821%;
+  right: 14.5125%;
+  top: 39.5018%;
+  bottom: 59.9051%;
+  border-radius: 2.5px;
+  background-color: #d8d8d8;
+}
+._3 {
+  color: #000;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+  position: absolute;
+  left: 22.9025%;
+  right: 71.6553%;
+  top: 34.1637%;
+  bottom: 60.6168%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._2 {
+  color: #000;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2259px;
+  position: absolute;
+  left: 39.0023%;
+  right: 55.7823%;
+  top: 34.0451%;
+  bottom: 60.7355%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.oval {
+  position: absolute;
+  left: 56.6893%;
+  right: 40.1361%;
+  top: 35.1127%;
+  bottom: 63.2266%;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.oval2 {
+  position: absolute;
+  left: 78.2313%;
+  right: 18.5941%;
+  top: 35.4686%;
+  bottom: 62.8707%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle14 {
+  position: absolute;
+  left: 27.4376%;
+  right: 25.8503%;
+  top: 42.586%;
+  bottom: 52.0759%;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.verifyNow {
+  color: #000;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33.7868%;
+  right: 32.1995%;
+  top: 43.8909%;
+  bottom: 53.2622%;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
