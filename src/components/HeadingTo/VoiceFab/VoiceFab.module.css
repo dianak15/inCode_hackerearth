@@ -1,0 +1,28 @@
+.iconMicrophone.iconMicrophone {
+  left: 34%;
+  right: 34%;
+  top: 26%;
+  bottom: 26%;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: absolute;
+  left: 62.8118%;
+  right: 25.8503%;
+  top: 68.2088%;
+  bottom: 25.86%;
+  align-items: flex-start;
+}
+.ellipse4 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
