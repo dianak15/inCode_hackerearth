@@ -1,0 +1,16 @@
+.root {
+  position: absolute;
+  left: 0;
+  right: 14.966%;
+  top: 0;
+  bottom: 20.8778%;
+  align-items: flex-start;
+}
+.colorTitleTextLightGray {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #c1c0c9;
+}
