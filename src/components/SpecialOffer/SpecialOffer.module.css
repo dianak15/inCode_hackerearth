@@ -1,0 +1,315 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fbe411;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.battery {
+  position: absolute;
+  left: 403px;
+  top: 14px;
+  width: 29.7126px;
+  height: 11.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.cellularConnection {
+  position: absolute;
+  left: 366px;
+  top: 14px;
+  width: 20.7627px;
+  height: 10.6667px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle {
+  position: absolute;
+  left: 34.4671%;
+  right: 35.1474%;
+  top: 95.6109%;
+  bottom: 3.796%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.specialOffer {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.4376%;
+  right: 38.322%;
+  top: 6.2871%;
+  bottom: 90.2728%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.modalPanel {
+  position: absolute;
+  left: 7.483%;
+  right: 8.6168%;
+  top: 12.93%;
+  bottom: 77.8173%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.diamondDiscount15Off {
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 27.4376%;
+  right: 9.9773%;
+  top: 14.7094%;
+  bottom: 82.4437%;
+  height: min-content;
+  flex-direction: column;
+}
+.order30RidesAndGetA15Discount {
+  color: #c8c7cc;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.9025%;
+  right: 12.2449%;
+  top: 18.624%;
+  bottom: 79.2408%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.modalPanel2 {
+  position: absolute;
+  left: 7.7098%;
+  right: 8.39%;
+  top: 25.5042%;
+  bottom: 65.2432%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.goldDiscount10Off {
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.4785%;
+  right: 18.1406%;
+  top: 27.1649%;
+  bottom: 69.9881%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.order20RidesAndGetA10Discount {
+  color: #c8c7cc;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 24.4898%;
+  right: 10.6576%;
+  top: 31.0795%;
+  bottom: 66.7853%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.modalPanel3 {
+  position: absolute;
+  left: 7.7098%;
+  right: 8.39%;
+  top: 37.9597%;
+  bottom: 52.7877%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.silverDiscount5Off {
+  color: #000;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.4785%;
+  right: 17.4603%;
+  top: 39.5018%;
+  bottom: 57.6512%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.order10RidesAndGetA5Discount {
+  color: #c8c7cc;
+  font-size: 15px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 24.4898%;
+  right: 12.9252%;
+  top: 43.4164%;
+  bottom: 54.4484%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.modalPanel4 {
+  position: absolute;
+  left: 7.7098%;
+  right: 8.39%;
+  top: 51.9573%;
+  bottom: 36.0617%;
+  overflow: visible;
+  filter: drop-shadow(0px -5px 20px #0000001a);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.inviteYourFriendsAndGet2Coupon {
+  color: #000;
+  font-size: 16px;
+  font-weight: 800;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 13.8322%;
+  right: 14.7392%;
+  top: 53.0249%;
+  bottom: 44.1281%;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.sendThisReferralCodeToYourFrie {
+  color: #c8c7cc;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 9.7506%;
+  right: 8.8435%;
+  top: 57.6512%;
+  bottom: 40.5694%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._1X456G {
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.542%;
+  right: 57.5964%;
+  top: 73.6655%;
+  bottom: 22.8944%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.getReferralCode {
+  color: #000;
+  font-size: 15px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.6349%;
+  right: 51.9274%;
+  top: 69.8695%;
+  bottom: 27.9953%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line1 {
+  position: absolute;
+  left: 21.542%;
+  right: 18.1406%;
+  top: 77.5801%;
+  bottom: 22.3013%;
+  max-width: 100%;
+  max-height: 100%;
+  border-bottom: solid 1px #000;
+  margin-bottom: -1px;
+}
+.rectangle2 {
+  position: absolute;
+  left: 13.6054%;
+  right: 10.4308%;
+  top: 82.4437%;
+  bottom: 12.2183%;
+  border-radius: 6px;
+  background-color: #ba13d5;
+}
+.sendReferralCode {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.2517%;
+  right: 30.6122%;
+  top: 83.6299%;
+  bottom: 13.5231%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.image2 {
+  position: absolute;
+  left: 34.4671%;
+  right: 36.0544%;
+  top: 91.3405%;
+  bottom: 5.5753%;
+  background-image:/* webpackIgnore: true */ url('assets/image2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
